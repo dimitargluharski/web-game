@@ -1,0 +1,202 @@
+{
+  "players": [
+    {
+      "name": "Liam Griffin",
+      "pace": 85,
+      "shooting": 78,
+      "passing": 76,
+      "dribbling": 82,
+      "defense": 65,
+      "physics": 70
+    },
+    {
+      "name": "Ethan Knight",
+      "pace": 91,
+      "shooting": 74,
+      "passing": 69,
+      "dribbling": 84,
+      "defense": 60,
+      "physics": 72
+    },
+    {
+      "name": "Oliver Hayes",
+      "pace": 78,
+      "shooting": 85,
+      "passing": 80,
+      "dribbling": 79,
+      "defense": 58,
+      "physics": 77
+    },
+    {
+      "name": "Mason Carter",
+      "pace": 72,
+      "shooting": 90,
+      "passing": 88,
+      "dribbling": 75,
+      "defense": 55,
+      "physics": 66
+    },
+    {
+      "name": "Logan Bell",
+      "pace": 87,
+      "shooting": 68,
+      "passing": 62,
+      "dribbling": 85,
+      "defense": 74,
+      "physics": 79
+    },
+    {
+      "name": "Noah Sanders",
+      "pace": 80,
+      "shooting": 70,
+      "passing": 75,
+      "dribbling": 81,
+      "defense": 67,
+      "physics": 74
+    },
+    {
+      "name": "James Dixon",
+      "pace": 75,
+      "shooting": 89,
+      "passing": 83,
+      "dribbling": 78,
+      "defense": 50,
+      "physics": 69
+    },
+    {
+      "name": "Elijah Morgan",
+      "pace": 92,
+      "shooting": 73,
+      "passing": 71,
+      "dribbling": 86,
+      "defense": 62,
+      "physics": 68
+    },
+    {
+      "name": "Henry Porter",
+      "pace": 68,
+      "shooting": 91,
+      "passing": 87,
+      "dribbling": 74,
+      "defense": 54,
+      "physics": 71
+    },
+    {
+      "name": "Alexander Brooks",
+      "pace": 77,
+      "shooting": 79,
+      "passing": 82,
+      "dribbling": 80,
+      "defense": 66,
+      "physics": 73
+    },
+    {
+      "name": "Benjamin Cooper",
+      "pace": 83,
+      "shooting": 77,
+      "passing": 78,
+      "dribbling": 83,
+      "defense": 64,
+      "physics": 75
+    },
+    {
+      "name": "William Turner",
+      "pace": 90,
+      "shooting": 65,
+      "passing": 68,
+      "dribbling": 89,
+      "defense": 70,
+      "physics": 78
+    },
+    {
+      "name": "Sebastian King",
+      "pace": 74,
+      "shooting": 88,
+      "passing": 84,
+      "dribbling": 76,
+      "defense": 52,
+      "physics": 67
+    },
+    {
+      "name": "Daniel Hill",
+      "pace": 79,
+      "shooting": 81,
+      "passing": 79,
+      "dribbling": 77,
+      "defense": 63,
+      "physics": 74
+    },
+    {
+      "name": "Samuel Adams",
+      "pace": 82,
+      "shooting": 75,
+      "passing": 73,
+      "dribbling": 84,
+      "defense": 61,
+      "physics": 69
+    },
+    {
+      "name": "Jack Foster",
+      "pace": 85,
+      "shooting": 80,
+      "passing": 77,
+      "dribbling": 83,
+      "defense": 59,
+      "physics": 71
+    },
+    {
+      "name": "Michael Scott",
+      "pace": 67,
+      "shooting": 87,
+      "passing": 86,
+      "dribbling": 72,
+      "defense": 57,
+      "physics": 73
+    },
+    {
+      "name": "Joseph Parker",
+      "pace": 86,
+      "shooting": 74,
+      "passing": 72,
+      "dribbling": 85,
+      "defense": 62,
+      "physics": 70
+    },
+    {
+      "name": "Ryan Collins",
+      "pace": 78,
+      "shooting": 82,
+      "passing": 81,
+      "dribbling": 79,
+      "defense": 65,
+      "physics": 72
+    },
+    {
+      "name": "Christopher Reed",
+      "pace": 80,
+      "shooting": 79,
+      "passing": 83,
+      "dribbling": 82,
+      "defense": 68,
+      "physics": 74
+    },
+    {
+      "name": "Luke Bennett",
+      "pace": 88,
+      "shooting": 70,
+      "passing": 69,
+      "dribbling": 87,
+      "defense": 63,
+      "physics": 75
+    },
+    {
+      "name": "Andrew Hughes",
+      "pace": 76,
+      "shooting": 84,
+      "passing": 85,
+      "dribbling": 78,
+      "defense": 58,
+      "physics": 68
+    }
+  ]
+}
