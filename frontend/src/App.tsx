@@ -1,34 +1,29 @@
-import { useState } from 'react'
-import reactLogo from './assets/react.svg'
-import viteLogo from '/vite.svg'
+import { useState } from 'react';
+import data from './data/players.json';
 
 function App() {
-  const [count, setCount] = useState(0)
+  const [players] = useState(data.players);
 
   return (
     <>
-      <div className='bg-slate-400'>
-        <a href="https://vite.dev" target="_blank">
-          <img src={viteLogo} className="logo" alt="Vite logo" />
-        </a>
-        <a href="https://react.dev" target="_blank">
-          <img src={reactLogo} className="logo react" alt="React logo" />
-        </a>
-      </div>
-      <h1>Vite + React</h1>
-      <div className="card">
-        <button onClick={() => setCount((count) => count + 1)}>
-          count is {count}
-        </button>
-        <p>
-          Edit <code>src/App.tsx</code> and save to test HMR
-        </p>
-      </div>
-      <p className="read-the-docs">
-        Click on the Vite and React logos to learn more
-      </p>
+      {players.map((player) => (
+        <div key={player.name} className="player-card">
+          <div className="flex justify-center font-bold text-lg">{player.name}</div>
+
+          <div className="flex flex-col items-center mt-2">
+            {Object.entries(player).map(([key, value]) => (
+              key !== 'name' && (
+                <div key={key} className="flex justify-between w-40 border-b py-1">
+                  <span className="text-gray-600 capitalize">{key}:</span>
+                  <span className="text-black font-medium">{value}</span>
+                </div>
+              )
+            ))}
+          </div>
+        </div>
+      ))}
     </>
-  )
+  );
 }
 
-export default App
+export default App;
